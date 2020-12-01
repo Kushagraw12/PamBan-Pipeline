@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/kush/Desktop/sem3/en201/devel -DCMAKE_INSTALL_PREFIX=/home/kush/Desktop/sem3/en201/install -G Unix Makefiles
